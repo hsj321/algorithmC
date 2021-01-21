@@ -16,6 +16,12 @@
     <Filter Include="greedy">
       <UniqueIdentifier>{814b9ab0-292f-4540-ba86-e58262942b6f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="etc">
+      <UniqueIdentifier>{e769f17b-2b58-491b-bdae-c85cf3b0aaa2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="sort">
+      <UniqueIdentifier>{dc104f25-4154-454e-a13a-98ca566532d2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Algorithm.cpp">
@@ -23,6 +29,36 @@
     </ClCompile>
     <ClCompile Include="greedy\2810.cpp">
       <Filter>greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="1744.cpp">
+      <Filter>greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="1931.cpp">
+      <Filter>greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="1439.cpp">
+      <Filter>greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="10610.cpp">
+      <Filter>etc</Filter>
+    </ClCompile>
+    <ClCompile Include="2875.cpp">
+      <Filter>etc</Filter>
+    </ClCompile>
+    <ClCompile Include="10867.cpp">
+      <Filter>sort</Filter>
+    </ClCompile>
+    <ClCompile Include="16435.cpp">
+      <Filter>greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="15702.cpp">
+      <Filter>sort</Filter>
+    </ClCompile>
+    <ClCompile Include="1296.cpp">
+      <Filter>etc</Filter>
+    </ClCompile>
+    <ClCompile Include="2399.cpp">
+      <Filter>etc</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
