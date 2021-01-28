@@ -60,5 +60,14 @@
     <ClCompile Include="2399.cpp">
       <Filter>etc</Filter>
     </ClCompile>
+    <ClCompile Include="10815.cpp">
+      <Filter>sort</Filter>
+    </ClCompile>
+    <ClCompile Include="11650.cpp">
+      <Filter>sort</Filter>
+    </ClCompile>
+    <ClCompile Include="10757.cpp">
+      <Filter>etc</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
