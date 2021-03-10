@@ -27,8 +27,7 @@ int main(void) {
 		}
 	}
 
-	cout << a << endl;
-	cout << b << endl;
+
 	
 	
 	for (int i = 0; i < max(aLen, bLen); i++) {
